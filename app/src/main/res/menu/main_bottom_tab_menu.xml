@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/main_bottom_tab1"
+        android:icon="@drawable/fsf"
+        android:title="@string/home_page" />
+    <item
+        android:id="@+id/main_bottom_tab2"
+        android:icon="@drawable/fsd"
+        android:title="@string/find" />
+    <item
+        android:id="@+id/main_bottom_tab3"
+        android:icon="@drawable/fs_"
+        android:title="@string/publish" />
+    <item
+        android:id="@+id/main_bottom_tab4"
+        android:icon="@drawable/fsh"
+        android:title="@string/message" />
+    <item
+        android:id="@+id/main_bottom_tab5"
+        android:icon="@drawable/fsb"
+        android:title="@string/not_logged_in" />
+</menu>
